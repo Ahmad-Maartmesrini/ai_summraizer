@@ -20,10 +20,14 @@ const Hero = () => {
         <span className="orange_gradient">OpenAI GPT-4</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with <span className="orange_gradient">Sumz</span>
-        , an open-source article summarizer that transforms lengthy articles
-        into <span className="orange_gradient">clear</span> and{" "}
-        <span className="orange_gradient">concise</span> summaries
+        <span className="orange_gradient">Enhance</span> your reading experience
+        with <span className="orange_gradient">Sumz</span>, an open-source
+        article summarizer that simplifies lengthy articles into{" "}
+        <span className="orange_gradient">clear</span> and{" "}
+        <span className="orange_gradient">concise</span> summaries.{" "}
+        <span className="orange_gradient">Explore</span> the option to translate
+        these summaries into <span className="orange_gradient">10</span>{" "}
+        different languages for a truly global perspective.
       </h2>
     </header>
   );
