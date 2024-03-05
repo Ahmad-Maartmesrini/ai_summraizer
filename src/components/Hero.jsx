@@ -4,7 +4,9 @@ const Hero = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between items-center w-full mb-10 pt-3">
-        <img src={logo} alt="sumz logo" />
+        <a href="https://ai-summraizer.vercel.app">
+          <img src={logo} alt="Sumz logo" />
+        </a>
         <button
           className="black_btn"
           type="button"
